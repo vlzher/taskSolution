@@ -8,11 +8,12 @@ This is a Node.js module that defines a Node class. The class has the following 
 
 ## Installation
 
-To use this module, you should have Node.js installed. You can then install the module using `npm`:
+To use this module, you should have Node.js installed. You can then install the modules using `npm`:
 
 ```bash
 npm install
 ```
+## Usage
 ```
 const Node = require('./zad1');
 
