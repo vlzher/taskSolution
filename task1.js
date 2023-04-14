@@ -55,6 +55,3 @@ class Node {
   }
 }
 module.exports = Node;
-const singleNode = new Node(null, null, null);
-
-console.log(singleNode.countLeafNodes());
